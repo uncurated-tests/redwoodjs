@@ -37,7 +37,7 @@ export default () => (
     />
     <section>
       <h1>
-        <span>Welcome to RedwoodJS!</span>
+        <span>Welcome to RedwoodJS HELLO</span>
       </h1>
     </section>
   </main>
