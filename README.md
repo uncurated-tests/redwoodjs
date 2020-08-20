@@ -6,7 +6,7 @@ This directory is a brief example of a [RedwoodJS](https://redwoodjs.com) app wi
 sadadsdasadsadsdasdsadsads
 ## Deploy Your Own
 dsadas
-Deploy your own RedwoodJS project, along with Serverless Functions, with Vercel.
+Deploy your own RedwoodJS project, along with Serverless Functions, dasdasasdwith Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/redwoodjs)
 
