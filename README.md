@@ -1,6 +1,6 @@
 dassaaaaaaaaaaaaaaaaaaaadasasdads![RedwoodJS Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/redwoodjs.svg)
 dasadsdasdasads
-dasasdads#dasadsads RedwoodJS Exampledadsa
+dasadsadsdasasdads#dasadsads RedwoodJS Exampledadsa
 dasadsdasadsads
 This directory is a brief example of a [RedwoodJS](https://redwoodjs.com) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
 sadadsdasadsadsdasdsadsads
