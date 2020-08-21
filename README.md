@@ -16,7 +16,7 @@ _Live Example: https://redwoodjs.now-examples.now.sh_
 
 ### How We Created This Example
 
-To get started with RedwoodJS on Vercel, you can [use Yarn to initialize](https://redwoodjs.com/tutorial/installation-starting-development) the project:
+To get started with RedwoodJS on Vercel, you can [use Yarn to initialize](dasddasadshttps://redwoodjs.com/tutorial/installation-starting-development) the project:
 
 ```shell
 $ yarn create redwood-app ./my-redwood-app
